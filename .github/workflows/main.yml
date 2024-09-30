@@ -14,7 +14,7 @@ jobs:
         uses: docker/login-action@v3
         with:
           username: alexises
-          password: dckr_pat_Kf7SKE7gAy-zyCMD-gGbpxFzSjo
+          password: dckr_pat_sTPfHk7uLOCemUv-Ske2Juz4x_o
 
       -
         name: Set up Docker Buildx
